@@ -1,4 +1,3 @@
-<img width= "100%" src ="https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?t=st=1717069868~exp=1717073468~hmac=3052d2daf27ba29060138bee8fdad238286cbad817d2f13fc857c8810dc356ee&w=1060">
 <h1 align="center">Hi 👋, I'm Santu Ghosh</h1>
 <h3 align="center">A passionate developer from India | Tech Enthusiast</h3>
 <img align = "right" alt = "Coding Image" width = "400" src ="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
